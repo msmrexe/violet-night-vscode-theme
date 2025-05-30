@@ -2,7 +2,8 @@
   "name": "violet-night-theme",
   "displayName": "Violet Night Theme",
   "description": "A sleek, dark, and vibrant theme with violet accents; easy on the eyes and perfect for night coding.",
-  "version": "0.0.2",
+  "icon": "media/icon.png",
+  "version": "0.1.0",
   "publisher": "MaryamRezaee",
   "repository": {
     "type": "git",

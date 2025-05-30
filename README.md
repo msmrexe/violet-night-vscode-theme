@@ -1,6 +1,6 @@
 # 🌌 Violet Night Theme for VS Code
 
-**Violet Night** is a sleek, dark, and vibrant Visual Studio Code theme featuring violet accents and soft contrast. It’s designed for simplicity to reduce eye strain during long sessions while maintaining just enough color variety to stay visually engaging. With deep purples, warm yellows, and gentle contrast, it's perfect for night-time or low-light coding.
+**Violet Night** is a sleek, dark, and vibrant Visual Studio Code theme featuring violet accents and soft contrast. It’s designed for simplicity to reduce eye strain during long sessions while maintaining just enough colour variety to stay visually engaging. With deep purples, warm yellows, and gentle contrast, it's perfect for night-time or low-light coding.
 
 ---
 
@@ -34,7 +34,7 @@ Or install directly from the [Marketplace page](https://marketplace.visualstudio
 
 ### 📁 Manual Installation (from `.vsix`)
 
-1. [Download the `.vsix` file](./violet-night-theme-0.0.1.vsix)
+1. [Download the `.vsix` file](./violet-night-theme-0.1.0.vsix)
 2. Open VS Code
 3. Press `Ctrl+Shift+P` and run:  
    `Extensions: Install from VSIX...`
@@ -56,7 +56,7 @@ After making changes, you can repackage and test using:
 
 ```bash
 vsce package
-code --install-extension violet-night-theme-0.0.1.vsix
+code --install-extension violet-night-theme-0.1.0.vsix
 ```
 
 ---
