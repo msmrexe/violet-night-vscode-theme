@@ -6,20 +6,33 @@ This project adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
+## [0.1.0] – 2025-05-30
+
+### Added
+- Theme icon for better visibility in the VS Code Marketplace.
+
+### Changed
+- Improved foreground colours for better contrast and overall aesthetics.
+
+### Fixed
+- Syntax colour bugs in the theme.
+
+---
+
+## [0.0.2] – 2025-05-30
+
+### Added
+- Preview image for the theme in the extension listing.
+
+### Fixed
+- Bugs affecting how previews were displayed on the Marketplace.
+
+---
+
 ## [0.0.1] – 2025-05-30
 
-- Initial release of **Violet Night Theme**
-- Dark, violet-accented colour palette for comfortable night coding
-- Syntax highlighting for common languages (JS, Python, Haskell, etc.)
-- Customised scrollbars, widgets, and more
-
-## [0.0.2] - 2025-05-30
-
-- Added theme preview image
-- Fixed preview bugs in Marketplace
-
-## [0.1.0] - 2025-05-30
-
-- Replaced foreground colour for improved aesthetics in the editor
-- Added theme icon
-- Fixed bugs
+### Added
+- Initial release of **Violet Night Theme**.
+- Dark, violet-accented colour palette tailored for night coding.
+- Syntax highlighting support for JavaScript, Python, Haskell, and more.
+- Custom styles for scrollbars, widgets, and other UI elements.
