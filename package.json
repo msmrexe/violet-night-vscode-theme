@@ -1,0 +1,21 @@
+{
+  "name": "violet-night-theme",
+  "displayName": "Violet Night Theme",
+  "description": "A sleek, dark, and vibrant theme with violet accents; easy on the eyes and perfect for night coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Violet Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/violet-night-color-theme.json"
+      }
+    ]
+  }
+}
