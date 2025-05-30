@@ -1,45 +1,77 @@
 # 🌌 Violet Night Theme for VS Code
 
-**Violet Night** is a sleek, dark, and vibrant Visual Studio Code theme featuring violet accents and soft contrast. The theme is designed to be simple so as to reduce eye strain while maintaining a bit of variety via adding yellow as a secondary colour and generally incorporating controlled colourfulness to make long coding sessions more pleasant.
+**Violet Night** is a sleek, dark, and vibrant Visual Studio Code theme featuring violet accents and soft contrast. It’s designed for simplicity to reduce eye strain during long sessions while maintaining just enough color variety to stay visually engaging. With deep purples, warm yellows, and gentle contrast, it's perfect for night-time or low-light coding.
 
 ---
 
 ## ✨ Features
 
-- Deep violet and dark gray base for low-glare coding
-- Carefully tuned syntax highlighting for readability
-- Custom styling for UI elements like scrollbars, tabs, and terminals
-- Great for night-time development and low-light environments
+- Deep violet and dark gray base for low-glare comfort
+- Vibrant but balanced syntax highlighting
+- Enhanced visibility and affects for scrollbar, widgets, and more
+- Semantic token support for better language features
 
 ---
 
 ## 📸 Preview
 
-> _Screenshots coming soon_  
-> (You can add images here by uploading them to your repo or using a `media/` folder)
+![Violet Night Theme Preview](media/preview-01.png)
 
 ---
 
 ## 🔧 Installation
 
-### From VSIX (Manual Install)
+### 📦 Install via VS Code Marketplace
 
-1. [Download the `.vsix` file](#) (link here if you plan to include it)
+1. Open VS Code
+2. Go to the Extensions view: `Ctrl+Shift+X`
+3. Search for **Violet Night Theme**
+4. Click **Install**
+
+Or install directly from the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=MaryamRezaee.violet-night-theme).
+
+---
+
+### 📁 Manual Installation (from `.vsix`)
+
+1. [Download the `.vsix` file](./violet-night-theme-0.0.1.vsix)
 2. Open VS Code
-3. Press `Ctrl+Shift+P` → Select `Extensions: Install from VSIX`
-4. Browse to your downloaded `.vsix` file and install
+3. Press `Ctrl+Shift+P` and run:  
+   `Extensions: Install from VSIX...`
+4. Select the downloaded `.vsix` file and install
 
-### From Source
+---
 
-If you're cloning this repository:
+## 📂 Development & Contribution
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/violet-night-theme.git
+Clone the repo and open in VS Code for local development:
 
-## For more information
+```bash
+git clone https://github.com/msmrexe/violet-night-vscode-theme.git
+cd violet-night-vscode-theme
+code .
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+After making changes, you can repackage and test using:
 
-**Enjoy!**
+```bash
+vsce package
+code --install-extension violet-night-theme-0.0.1.vsix
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or bugs, feel free to reach out:
+
+**Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
+**GitHub:** [@msmrexe](https://github.com/msmrexe)
+
+---
+
+## 📝 License
+
+This theme is open source under the [MIT License](LICENSE).
+
+---
+
+Enjoy your coding under the Violet Night sky! 🌃
