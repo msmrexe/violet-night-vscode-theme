@@ -50,12 +50,14 @@ Clone the repo and open in VS Code for local development:
 git clone https://github.com/msmrexe/violet-night-vscode-theme.git
 cd violet-night-vscode-theme
 code .
+```
 
 After making changes, you can repackage and test using:
 
 ```bash
 vsce package
 code --install-extension violet-night-theme-0.0.1.vsix
+```
 
 ---
 
