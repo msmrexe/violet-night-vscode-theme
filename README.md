@@ -65,8 +65,8 @@ code --install-extension violet-night-theme-0.0.1.vsix
 
 For questions, suggestions, or bugs, feel free to reach out:
 
-**Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
-**GitHub:** [@msmrexe](https://github.com/msmrexe)
+- **Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
+- **GitHub:** [@msmrexe](https://github.com/msmrexe)
 
 ---
 
