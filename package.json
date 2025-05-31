@@ -3,14 +3,14 @@
   "displayName": "Violet Night Theme",
   "description": "A sleek, dark, and vibrant theme with violet accents; easy on the eyes and perfect for night coding.",
   "icon": "media/icon.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "MaryamRezaee",
   "repository": {
     "type": "git",
     "url": "https://github.com/msmrexe/violet-night-vscode-theme.git"
   },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"

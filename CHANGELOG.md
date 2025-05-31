@@ -2,7 +2,18 @@
 
 All notable changes to the **Violet Night Theme** extension will be documented in this file.
 
-This project adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and uses [Semantic Versioning](https://semver.org/).
+This project adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0) and uses [Semantic Versioning](https://semver.org).
+
+---
+
+## [0.1.1] – 2025-05-31
+
+### Changed
+- Redesigned theme icon for improved aesthetics and formatting.
+- Lowered minimum VS Code engine version to increase compatibility.
+
+### Fixed
+- Removed redundant project files and edited those containing issues.
 
 ---
 

@@ -1,4 +1,8 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-vsc-extension-quickstart.md
+icon-base*
+icon.psd
+icon.ai
+violet-night-theme-0.0.1.vsix
+violet-night-theme-0.1.0.vsix
