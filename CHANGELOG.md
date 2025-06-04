@@ -6,6 +6,16 @@ This project adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0) 
 
 ---
 
+## [0.1.2] – 2025-06-04
+
+### Changed
+- Updated `.gitignore` and `.vscodeignore` to exclude unneeded development and media source files from version control and published builds.
+
+### Fixed
+- Removed unused media files from the extension package to reduce size and avoid clutter.
+
+---
+
 ## [0.1.1] – 2025-05-31
 
 ### Changed

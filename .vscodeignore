@@ -1,8 +1,9 @@
+# Ignore dev or local files
 .vscode/**
 .vscode-test/**
 .gitignore
-icon-base*
-icon.psd
-icon.ai
-violet-night-theme-0.0.1.vsix
-violet-night-theme-0.1.0.vsix
+
+# Ignore extra media files
+media/icon-base*
+media/icon.psd
+media/icon.ai
