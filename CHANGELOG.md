@@ -9,8 +9,8 @@ This project adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0) 
 ## [0.2.0] – 2025-06-08
 
 ### Changed
-- Adjusted syntax colors for improved aesthetics and broader language support.
-- Modified scrollbar colors for increased visibility and accessibility.
+- Adjusted syntax colours for improved aesthetics and broader language support.
+- Modified scrollbar colours for increased visibility and accessibility.
 - Softened contrast of Markdown and code output text to reduce visual strain.
 
 ### Fixed
