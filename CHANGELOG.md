@@ -6,6 +6,19 @@ This project adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0) 
 
 ---
 
+## [0.2.0] – 2025-06-08
+
+### Changed
+- Adjusted syntax colors for improved aesthetics and broader language support.
+- Modified scrollbar colors for increased visibility and accessibility.
+- Softened contrast of Markdown and code output text to reduce visual strain.
+
+### Fixed
+- Cleaned up and reorganized theme token definitions for clarity and consistency.
+- Corrected formatting issues and redundant or miscategorized rules in the theme JSON.
+
+---
+
 ## [0.1.2] – 2025-06-04
 
 ### Changed

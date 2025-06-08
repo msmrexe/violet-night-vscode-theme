@@ -1,6 +1,7 @@
 # Ignore dev or local files
 node_modules
 .env
+themes/obsolete*
 
 # Ignore extra media files
 media/icon-base*

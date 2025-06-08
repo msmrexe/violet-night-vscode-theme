@@ -34,7 +34,7 @@ Or install directly from the [Marketplace page](https://marketplace.visualstudio
 
 ### 📁 Manual Installation (from `.vsix`)
 
-1. [Download the `.vsix` file](./violet-night-theme-0.1.2.vsix)
+1. [Download the `.vsix` file](./violet-night-theme-0.2.0.vsix)
 2. Open VS Code
 3. Press `Ctrl+Shift+P` and run:  
    `Extensions: Install from VSIX...`
@@ -56,7 +56,7 @@ After making changes, you can repackage and test using:
 
 ```bash
 vsce package
-code --install-extension violet-night-theme-0.1.2.vsix
+code --install-extension violet-night-theme-0.2.0.vsix
 ```
 
 ---
