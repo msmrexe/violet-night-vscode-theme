@@ -3,6 +3,7 @@
 .vscode-test/**
 .gitignore
 themes/obsolete*
+obsolete*
 
 # Ignore extra media files
 media/icon-base*
